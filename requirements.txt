@@ -1,0 +1,6 @@
+opencv-python
+numpy
+imutils
+utils
+pytesseract
+argparse
