@@ -3,7 +3,6 @@
 # Description: Recognizes text from video or webcam
 # Usage: python dynamic_text_recognition.py
 #        (python dynamic_text_recognition.py -v | -c | -w | -e | -p (arguments))
-# Author: Arabind Meher (ag3774@srmist.edu.in) & Karan Gopalakrishnan (ck4659@srmist.edu.in)
 ########################################################################################################################
 
 import cv2

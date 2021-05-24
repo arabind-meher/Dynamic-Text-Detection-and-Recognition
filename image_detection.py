@@ -5,7 +5,6 @@
 #        or
 #        python static_text_recognition.py --image images/001.png
 #        (python static_text_recognition.py -i | -c | -w | -e | -p (arguments))
-# Author: Arabind Meher (ag3774@srmist.edu.in) & Karan Gopalakrishnan (ck4659@srmist.edu.in)
 ########################################################################################################################
 
 import cv2
